@@ -9,8 +9,7 @@
 </h1>
 
 ### :man_technologist: About Me : 
-I am a Product Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with passion.
-:telescope: I’m working as a Product Designer and contributing to frontend and backend for building applications.
+An ambitious, passionate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, data-driven UX/Product Designer with extensive experience in interaction design, design systems, and user experience with an engineering perspective.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -18,6 +17,7 @@ I am a Product Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-omid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omidreza-askarian/)
 
+- My Website : https://omidrezaaskarian.com/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
